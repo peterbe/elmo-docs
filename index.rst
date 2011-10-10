@@ -15,15 +15,21 @@ localizers to navigate to get stuff done.
 
 This documentation is about the `elmo django application
 <https://github.com/mozilla/elmo>`_ and how it works and why it works
-like it works. 
+like it works.
 
+All code is available here: https://github.com/mozilla/elmo
+
+The production is available here: https://l10n-stage-sj.mozilla.org/
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
-   
+
+   overview
    life
+   shipping
+   l10nstats
 
 
 Indices and tables
@@ -32,4 +38,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
